@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ec46dd9dca88c424980460fa3d34b7f2
+timeCreated: 1477802223
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PixelMplus10
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2ee30e5a33f217e429b57828ffd867c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
